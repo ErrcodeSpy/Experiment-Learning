@@ -1,0 +1,14 @@
+{
+  "name": "Alpha Botz Utility X Automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "10.0.0",
+    "@whiskeysockets/baileys": "github:nstar-y/bail",
+    "chalk": "5.3.0",
+    "pino": "8.21.0"
+  }
+  
